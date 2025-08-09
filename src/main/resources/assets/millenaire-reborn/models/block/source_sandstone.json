@@ -1,6 +1,6 @@
 {
-  "parent": "millenaire:block/source",
+  "parent": "millenaire-reborn:block/source",
   "textures": {
-    "sourceblock": "minecraft:block/sandstone"
+    "sourceblock": "minecraft:block/sandstone_normal"
   }
 }

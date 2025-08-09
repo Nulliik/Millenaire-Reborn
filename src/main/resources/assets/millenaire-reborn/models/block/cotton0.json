@@ -1,7 +1,7 @@
 {
     "parent": "block/crop",
     "textures": {
-        "crop": "millenaire:blocks/cotton0",
-        "particle" : "millenaire:blocks/cotton0"
+        "crop": "millenaire-reborn:block/cotton0",
+        "particle" : "millenaire-reborn:block/cotton0"
     }
 }

@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "millenaire:lightbluechiseled_block" }
+        "normal": { "model": "millenaire-reborn:lightbluechiseled_block" }
     }
 }

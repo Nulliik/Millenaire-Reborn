@@ -1,29 +1,29 @@
 {
-    "variants": 
+    "variants":
     {
-        "facing=up": 
-        { 
-            "model": "millenaire:feathered_serpent" 
+        "facing=up":
+        {
+            "model": "millenaire-reborn:feathered_serpent"
         },
-    
-        "facing=south": 
-        { 
-            "model": "millenaire:feathered_serpent" 
+
+        "facing=south":
+        {
+            "model": "millenaire-reborn:feathered_serpent"
         },
-    
-        "facing=east": 
-        { 
-            "model": "millenaire:feathered_serpent","y":270 
+
+        "facing=east":
+        {
+            "model": "millenaire-reborn:feathered_serpent","y":270
         },
-    
-        "facing=west": 
-        { 
-            "model": "millenaire:feathered_serpent","y":90 
+
+        "facing=west":
+        {
+            "model": "millenaire-reborn:feathered_serpent","y":90
         },
-    
-        "facing=north": 
-        { 
-            "model": "millenaire:feathered_serpent","y":180 
+
+        "facing=north":
+        {
+            "model": "millenaire-reborn:feathered_serpent","y":180
         }
     }
 }

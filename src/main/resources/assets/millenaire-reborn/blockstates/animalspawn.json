@@ -1,13 +1,13 @@
 {
 	"forge_marker": 1,
     "variants": {
-        "normal": {"model": "millenaire:markerBlock"},
-        "creature=cow": { "model": "millenaire:animalspawn_cow" },
-        "creature=pig": { "model": "millenaire:animalspawn_pig" },
-        "creature=sheep": { "model": "millenaire:animalspawn_sheep" },
-        "creature=chicken": { "model": "millenaire:animalspawn_chicken" },
-        "creature=squid": { "model": "millenaire:animalspawn_squid" },
-        "creature=wolf": { "model": "millenaire:animalspawn_wolf" },
-        "creature=polarbear": { "model": "millenaire:animalspawn_polar_bear" }
+        "normal": {"model": "millenaire-reborn:markerBlock"},
+        "creature=cow": { "model": "millenaire-reborn:animalspawn_cow" },
+        "creature=pig": { "model": "millenaire-reborn:animalspawn_pig" },
+        "creature=sheep": { "model": "millenaire-reborn:animalspawn_sheep" },
+        "creature=chicken": { "model": "millenaire-reborn:animalspawn_chicken" },
+        "creature=squid": { "model": "millenaire-reborn:animalspawn_squid" },
+        "creature=wolf": { "model": "millenaire-reborn:animalspawn_wolf" },
+        "creature=polarbear": { "model": "millenaire-reborn:animalspawn_polar_bear" }
     }
 }

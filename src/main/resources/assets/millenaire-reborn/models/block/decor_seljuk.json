@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "millenaire:items/wallcarpetlarge",
-    "particle" : "millenaire:items/wallcarpetlarge"
+    "all": "millenaire-reborn:item/wallcarpetlarge",
+    "particle" : "millenaire-reborn:item/wallcarpetlarge"
   }
 }

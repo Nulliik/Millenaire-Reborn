@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-  		"down": "millenaire:blocks/empty",
-        "up": "millenaire:blocks/painted_brick_lime",
-        "north": "millenaire:blocks/painted_brick_decoration_lime_top",
-        "east": "millenaire:blocks/painted_brick_decoration_lime_top",
-        "south": "millenaire:blocks/painted_brick_decoration_lime_top",
-        "west": "millenaire:blocks/painted_brick_decoration_lime_top",
-    	"particle" : "millenaire:blocks/painted_brick_decoration_lime_top"
+  		"down": "millenaire-reborn:block/empty",
+        "up": "millenaire-reborn:block/painted_brick_lime",
+        "north": "millenaire-reborn:block/painted_brick_decoration_lime_top",
+        "east": "millenaire-reborn:block/painted_brick_decoration_lime_top",
+        "south": "millenaire-reborn:block/painted_brick_decoration_lime_top",
+        "west": "millenaire-reborn:block/painted_brick_decoration_lime_top",
+    	"particle" : "millenaire-reborn:block/painted_brick_decoration_lime_top"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "parent": "millenaire:block/source",
+  "parent": "millenaire-reborn:block/source",
   "textures": {
     "sourceblock": "minecraft:block/quartz_ore"
   }

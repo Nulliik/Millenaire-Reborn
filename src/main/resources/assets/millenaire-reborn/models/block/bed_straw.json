@@ -1,10 +1,10 @@
 {
     "parent": "block/block",
     "textures": {
-        "bottom": "millenaire:blocks/thatch_topbottom",
-        "top": "millenaire:blocks/thatch_topbottom",
-        "side": "millenaire:blocks/thatch_topbottom",
-        "particle" : "millenaire:blocks/thatch_topbottom"
+        "bottom": "millenaire-reborn:block/thatch_topbottom",
+        "top": "millenaire-reborn:block/thatch_topbottom",
+        "side": "millenaire-reborn:block/thatch_topbottom",
+        "particle" : "millenaire-reborn:block/thatch_topbottom"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],

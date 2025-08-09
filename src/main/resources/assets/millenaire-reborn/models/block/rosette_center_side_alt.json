@@ -1,7 +1,7 @@
 {
-    "parent": "millenaire:block/mil_pane_side_alt",
+    "parent": "millenaire-reborn:block/mil_pane_side_alt",
     "textures": {
-        "edge": "blocks/glass_pane_top_white",
-        "pane": "millenaire:blocks/rosette_center"
+        "edge": "minecraft:block/white_stained_glass_pane_top",
+        "pane": "millenaire-reborn:block/rosette_center"
     }
 }

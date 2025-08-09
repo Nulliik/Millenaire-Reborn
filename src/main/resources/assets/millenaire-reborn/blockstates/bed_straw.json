@@ -1,5 +1,5 @@
 {
     "multipart": [
-        {   "apply": { "model": "millenaire:bed_straw" }}
+        {   "apply": { "model": "millenaire-reborn:bed_straw" }}
     ]
 }

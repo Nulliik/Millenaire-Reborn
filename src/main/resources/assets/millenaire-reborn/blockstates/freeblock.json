@@ -1,15 +1,15 @@
 {
 	"forge_marker": 1,
     "variants": {
-        "normal": {"model": "millenaire:markerBlock"},
-        "resource=stone": { "model": "millenaire:free_stone" },
-        "resource=sand": { "model": "millenaire:free_sand" },
-        "resource=gravel": { "model": "millenaire:free_gravel" },
-        "resource=sandstone": { "model": "millenaire:free_sandstone" },
-        "resource=wool": { "model": "millenaire:free_wool" },
-        "resource=cobblestone": { "model": "millenaire:free_cobblestone" },
-        "resource=stonebrick": { "model": "millenaire:free_stonebrick" },
-        "resource=paintedbrick": { "model": "millenaire:free_paintedbrick" },
-        "resource=grass_block": { "model": "millenaire:free_grass_block" }
+        "normal": {"model": "millenaire-reborn:markerBlock"},
+        "resource=stone": { "model": "millenaire-reborn:free_stone" },
+        "resource=sand": { "model": "millenaire-reborn:free_sand" },
+        "resource=gravel": { "model": "millenaire-reborn:free_gravel" },
+        "resource=sandstone": { "model": "millenaire-reborn:free_sandstone" },
+        "resource=wool": { "model": "millenaire-reborn:free_wool" },
+        "resource=cobblestone": { "model": "millenaire-reborn:free_cobblestone" },
+        "resource=stonebrick": { "model": "millenaire-reborn:free_stonebrick" },
+        "resource=paintedbrick": { "model": "millenaire-reborn:free_paintedbrick" },
+        "resource=grass_block": { "model": "millenaire-reborn:free_grass_block" }
     }
 }

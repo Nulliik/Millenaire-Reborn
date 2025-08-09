@@ -26,6 +26,7 @@ public class MillItems {
     public static Item BYZANTINE_TILES_ITEM;
     public static Item BYZANTINE_SANDSTONE_ORNAMENT_ITEM;
     public static Item INDIAN_STONE_ORNAMENT_ITEM;
+    public static Item ROSETTE_ITEM;
 
     // Norman Tools & Weapons
     public static Item NORMAN_PICKAXE;
@@ -288,6 +289,9 @@ public class MillItems {
             
         INDIAN_STONE_ORNAMENT_ITEM = register("indian_stone_ornament",
             new BlockItem(MillBlocks.INDIAN_STONE_ORNAMENT, createSettings("indian_stone_ornament")));
+            
+        ROSETTE_ITEM = register("rosette",
+            new BlockItem(MillBlocks.ROSETTE, createSettings("rosette")));
 
         // Norman Tools (erstmal als basic Items - später zu richtigen Tools upgraden)
         NORMAN_PICKAXE = register("normanpickaxe", new Item(createSettings("normanpickaxe")));

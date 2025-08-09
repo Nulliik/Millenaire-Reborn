@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "millenaire:blocks/soil_cotton",
-    "particle" : "millenaire:blocks/soil_cotton"
+    "all": "millenaire-reborn:block/soil_cotton",
+    "particle" : "millenaire-reborn:block/soil_cotton"
   }
 }

@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "millenaire:import_table" }
+        "normal": { "model": "millenaire-reborn:import_table" }
     }
 }

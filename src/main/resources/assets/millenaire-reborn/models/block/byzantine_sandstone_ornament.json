@@ -1,6 +1,10 @@
 {
-    "parent": "block/cube_all",
+    "parent": "millenaire-reborn:block/mixtiles",
     "textures": {
-        "all": "millenaire-reborn:block/byzantine_sandstone_ornament"
+        "baseblock": "minecraft:block/sandstone",
+        "topblock": "minecraft:block/sandstone_top",
+        "sideblock": "millenaire-reborn:block/byzantine_tiles_ornament",
+        "frontblock": "millenaire-reborn:block/byzantine_tiles_ornament",
+        "bottomblock": "millenaire-reborn:block/byzantine_tiles_top"
     }
 }

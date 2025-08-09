@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "millenaire:blocks/preserveground",
-    "particle": "millenaire:blocks/preserveground"
+    "all": "millenaire-reborn:block/preserveground",
+    "particle": "millenaire-reborn:block/preserveground"
   }
 }

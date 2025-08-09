@@ -1,5 +1,5 @@
 {
     "multipart": [
-        {   "apply": { "model": "millenaire:bed_charpoy" }}
+        {   "apply": { "model": "millenaire-reborn:bed_charpoy" }}
     ]
 }

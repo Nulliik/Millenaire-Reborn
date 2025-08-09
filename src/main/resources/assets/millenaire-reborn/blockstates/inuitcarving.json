@@ -1,29 +1,29 @@
 {
-    "variants": 
+    "variants":
     {
-        "facing=up": 
-        { 
-            "model": "millenaire:inuitcarving" 
+        "facing=up":
+        {
+            "model": "millenaire-reborn:inuitcarving"
         },
-    
-        "facing=south": 
-        { 
-            "model": "millenaire:inuitcarving" 
+
+        "facing=south":
+        {
+            "model": "millenaire-reborn:inuitcarving"
         },
-    
-        "facing=east": 
-        { 
-            "model": "millenaire:inuitcarving","y":270 
+
+        "facing=east":
+        {
+            "model": "millenaire-reborn:inuitcarving","y":270
         },
-    
-        "facing=west": 
-        { 
-            "model": "millenaire:inuitcarving","y":90 
+
+        "facing=west":
+        {
+            "model": "millenaire-reborn:inuitcarving","y":90
         },
-    
-        "facing=north": 
-        { 
-            "model": "millenaire:inuitcarving","y":180 
+
+        "facing=north":
+        {
+            "model": "millenaire-reborn:inuitcarving","y":180
         }
     }
 }

@@ -2,9 +2,9 @@
     "__createdwith": "opl's Model Creator",
     "ambientocclusion": false,
     "textures": {
-            "particle": "minecraft:block/bone_block_side",
-    "0": "minecraft:block/oak_log",
-    "1": "minecraft:block/bone_block_side"
+        "particle": "minecraft:block/bone_block_side",
+        "0": "minecraft:block/log_oak",
+        "1": "minecraft:block/bone_block_side"
     },
     "elements": [
         {

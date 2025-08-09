@@ -1,12 +1,12 @@
 {
    "parent": "block/cube_all",
    "textures": {
-     "particle": "millenaire:blocks/honey_block",
-     "down": "millenaire:blocks/thatch_topbottom",
-     "up": "millenaire:blocks/thatch_topbottom",
-     "north": "millenaire:blocks/honey_block",
-     "east": "millenaire:blocks/honey_block",
-     "south": "millenaire:blocks/honey_block",
-     "west": "millenaire:blocks/honey_block"
+     "particle": "millenaire-reborn:block/honey_block",
+     "down": "millenaire-reborn:block/thatch_topbottom",
+     "up": "millenaire-reborn:block/thatch_topbottom",
+     "north": "millenaire-reborn:block/honey_block",
+     "east": "millenaire-reborn:block/honey_block",
+     "south": "millenaire-reborn:block/honey_block",
+     "west": "millenaire-reborn:block/honey_block"
    }
 }

@@ -1,12 +1,12 @@
 {
     "parent": "block/cube_column",
     "textures": {
-        "down": "millenaire-reborn:block/byzantine_tiles",
-        "up": "millenaire-reborn:block/byzantine_tiles",
-        "north": "millenaire-reborn:block/byzantine_tiles",
-        "east": "millenaire-reborn:block/byzantine_tiles",
-        "south": "millenaire-reborn:block/byzantine_tiles",
-        "west": "millenaire-reborn:block/byzantine_tiles",
-        "particle" : "millenaire-reborn:block/byzantine_tiles"
+        "down": "millenaire-reborn:block/byzantine_tiles_top",
+        "up": "millenaire-reborn:block/byzantine_tiles_top",
+        "north": "millenaire-reborn:block/byzantine_tiles_top",
+        "east": "millenaire-reborn:block/byzantine_tiles_side",
+        "south": "millenaire-reborn:block/byzantine_tiles_top",
+        "west": "millenaire-reborn:block/byzantine_tiles_side",
+        "particle" : "millenaire-reborn:block/byzantine_tiles_top"
     }
 }

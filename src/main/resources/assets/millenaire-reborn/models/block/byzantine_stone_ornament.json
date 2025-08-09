@@ -1,8 +1,8 @@
 {
-    "parent": "millenaire:block/mixtiles",
+    "parent": "millenaire-reborn:block/mixtiles",
     "textures": {
-        "baseblock": "minecraft:block/stone_bricks",
-        "topblock": "minecraft:block/stone_bricks",
+        "baseblock": "minecraft:block/stonebrick",
+        "topblock": "minecraft:block/stonebrick",
         "sideblock": "millenaire-reborn:block/byzantine_tiles_ornament",
         "frontblock": "millenaire-reborn:block/byzantine_tiles_ornament",
         "bottomblock": "millenaire-reborn:block/byzantine_tiles_top"

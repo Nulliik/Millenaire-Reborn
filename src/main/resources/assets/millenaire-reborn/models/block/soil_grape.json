@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "millenaire:blocks/soil_grape",
-    "particle" : "millenaire:blocks/soil_grape"
+    "all": "millenaire-reborn:block/soil_grape",
+    "particle" : "millenaire-reborn:block/soil_grape"
   }
 }

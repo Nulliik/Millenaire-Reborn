@@ -1,6 +1,6 @@
 {
 	"multipart": [
-        {   "apply": { "model": "millenaire:painted_brick_white" }
-        }        
+        {   "apply": { "model": "millenaire-reborn:painted_brick_white" }
+        }
     ]
 }

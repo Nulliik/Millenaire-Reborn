@@ -1,6 +1,6 @@
 {
-  "parent": "millenaire:block/sod",
+  "parent": "millenaire-reborn:block/sod",
   "textures": {
-    "planks": "minecraft:block/jungle_planks"
+    "planks": "minecraft:block/planks_jungle"
   }
 }

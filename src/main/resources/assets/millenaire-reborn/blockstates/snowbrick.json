@@ -1,6 +1,6 @@
 {
 	"forge_marker": 1,
     "variants": {
-        "normal": { "model": "millenaire:snowbrick" }
+        "normal": { "model": "millenaire-reborn:snowbrick" }
     }
 }

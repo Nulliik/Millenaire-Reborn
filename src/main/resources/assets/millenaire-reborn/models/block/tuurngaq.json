@@ -1,6 +1,6 @@
 {
   "parent": "block/cross",
   "textures": {
-    "cross": "millenaire:blocks/tuurngaq"
+    "cross": "millenaire-reborn:block/tuurngaq"
   }
 }

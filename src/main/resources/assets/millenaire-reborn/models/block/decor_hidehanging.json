@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "millenaire:items/hidehanging",
-    "particle" : "millenaire:items/hidehanging"
+    "all": "millenaire-reborn:item/hidehanging",
+    "particle" : "millenaire-reborn:item/hidehanging"
   }
 }

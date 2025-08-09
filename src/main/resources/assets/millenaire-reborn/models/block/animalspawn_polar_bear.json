@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "millenaire:items/bearmeat_raw",
-    "particle" : "millenaire:items/bearmeat_raw"
+    "all": "millenaire-reborn:item/bearmeat_raw",
+    "particle" : "millenaire-reborn:item/bearmeat_raw"
   }
 }

@@ -1,9 +1,9 @@
 {
     "ambientocclusion": false,
     "textures": {
-        "particle": "millenaire:blocks/wooden_bars",
-        "bars": "millenaire:blocks/wooden_bars",
-        "edge": "millenaire:blocks/wooden_bars_top"
+        "particle": "millenaire-reborn:block/wooden_bars",
+        "bars": "millenaire-reborn:block/wooden_bars",
+        "edge": "millenaire-reborn:block/wooden_bars_top"
     },
     "elements": [
         {   "from": [ 8, 0, 0 ],

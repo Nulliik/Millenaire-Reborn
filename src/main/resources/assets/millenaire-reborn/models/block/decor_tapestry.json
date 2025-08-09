@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "millenaire:items/tapestry",
-    "particle" : "millenaire:items/tapestry"
+    "all": "millenaire-reborn:item/tapestry",
+    "particle" : "millenaire-reborn:item/tapestry"
   }
 }

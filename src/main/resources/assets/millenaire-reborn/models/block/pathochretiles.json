@@ -1,7 +1,7 @@
 {
-  "parent": "millenaire:block/path",
+  "parent": "millenaire-reborn:block/path",
   "textures": {
-    "side": "millenaire:blocks/pathochretiles_side",
-    "topblock": "millenaire:blocks/pathochretiles"
+    "side": "millenaire-reborn:block/pathochretiles_side",
+    "topblock": "millenaire-reborn:block/pathochretiles"
   }
 }

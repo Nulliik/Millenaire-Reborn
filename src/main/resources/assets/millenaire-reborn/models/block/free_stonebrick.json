@@ -1,6 +1,6 @@
 {
-  "parent": "millenaire:block/free",
+  "parent": "millenaire-reborn:block/free",
   "textures": {
-    "freeblock": "minecraft:block/stone_bricks"
+    "freeblock": "minecraft:block/stonebrick"
   }
 }

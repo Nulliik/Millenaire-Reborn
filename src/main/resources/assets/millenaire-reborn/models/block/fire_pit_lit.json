@@ -3,7 +3,7 @@
 	"textures": {
 		"fire": "blocks/fire_layer_0"
 	},
-	"parent": "millenaire:block/fire_pit",
+	"parent": "millenaire-reborn:block/fire_pit",
 	"elements": [
 		{
 			"from": [ 0, 0.05, 6.5 ],

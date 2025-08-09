@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "millenaire:blocks/soil_netherwart",
-    "particle" : "millenaire:blocks/soil_netherwart"
+    "all": "millenaire-reborn:block/soil_netherwart",
+    "particle" : "millenaire-reborn:block/soil_netherwart"
   }
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "millenaire:block/mil_pane_noside",
+    "parent": "millenaire-reborn:block/mil_pane_noside",
     "textures": {
-        "pane": "millenaire:blocks/rosette_horside"
+        "pane": "millenaire-reborn:block/rosette_horside"
     }
 }

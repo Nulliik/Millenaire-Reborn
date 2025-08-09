@@ -1,7 +1,7 @@
 {
-  "parent": "millenaire:block/path_top",
+  "parent": "millenaire-reborn:block/path_top",
   "textures": {
-    "side": "millenaire:blocks/pathgravel_side",
-    "topblock": "millenaire:blocks/pathgravel"
+    "side": "millenaire-reborn:block/pathgravel_side",
+    "topblock": "millenaire-reborn:block/pathgravel"
   }
 }

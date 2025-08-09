@@ -1,7 +1,7 @@
 {
 	"parent": "block/block",
 	"textures": {
-		"overlay": "millenaire:blocks/free_overlay",
+		"overlay": "millenaire-reborn:block/free_overlay",
 		"particle": "#freeblock"
 	},
 	"elements": [

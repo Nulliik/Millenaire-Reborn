@@ -1,6 +1,6 @@
 {
     "parent": "block/wall_post",
     "textures": {
-        "wall": "millenaire:blocks/painted_brick_silver"
+        "wall": "millenaire-reborn:block/painted_brick_silver"
     }
 }

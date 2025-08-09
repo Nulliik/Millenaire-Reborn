@@ -1,17 +1,17 @@
 {
 	"forge_marker": 1,
-	"variants": {	
+	"variants": {
 		"half=bottom,stable=false": {
-			"model": "millenaire:pathslabs_bottom"
+			"model": "millenaire-reborn:pathslabs_bottom"
 		},
 		"half=top,stable=false": {
-			"model": "millenaire:pathslabs_top"
+			"model": "millenaire-reborn:pathslabs_top"
 		},
 		"half=bottom,stable=true": {
-			"model": "millenaire:pathslabs_bottom"
+			"model": "millenaire-reborn:pathslabs_bottom"
 		},
 		"half=top,stable=true": {
-			"model": "millenaire:pathslabs_top"
+			"model": "millenaire-reborn:pathslabs_top"
 		}
 	}
 }

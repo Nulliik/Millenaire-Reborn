@@ -1,11 +1,11 @@
 {
     "parent": "block/cube_column",
     "textures": {
-        "down": "millenaire:blocks/stone",
-        "up": "millenaire:blocks/byzantine_tiles_top",
-        "north": "millenaire:blocks/byzantine_tiles_half_front",
-        "east": "millenaire:blocks/byzantine_tiles_half_side",
-        "south": "millenaire:blocks/byzantine_tiles_half_front",
-        "west": "millenaire:blocks/byzantine_tiles_half_side"
+        "down": "millenaire-reborn:block/stone",
+        "up": "millenaire-reborn:block/byzantine_tiles_top",
+        "north": "millenaire-reborn:block/byzantine_tiles_half_front",
+        "east": "millenaire-reborn:block/byzantine_tiles_half_side",
+        "south": "millenaire-reborn:block/byzantine_tiles_half_front",
+        "west": "millenaire-reborn:block/byzantine_tiles_half_side"
     }
 }

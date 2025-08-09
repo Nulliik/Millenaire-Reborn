@@ -1,5 +1,5 @@
 {
     "variants": {
-        "normal": { "model": "millenaire:byzantine_stone_ornament" }
+        "normal": { "model": "millenaire-reborn:byzantine_stone_ornament" }
     }
 }

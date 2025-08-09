@@ -1,29 +1,29 @@
 {
 	"forge_marker": 1,
-	"variants": {	
+	"variants": {
 		"half=bottom,variant=timberframeplain": {
-			"model": "millenaire:timberframe_bottom"
+			"model": "millenaire-reborn:timberframe_bottom"
 		},
 		"half=top,variant=timberframeplain": {
-			"model": "millenaire:timberframe_top"
+			"model": "millenaire-reborn:timberframe_top"
 		},
 		"half=bottom,variant=timberframecross": {
-			"model": "millenaire:timberframe_bottom"
+			"model": "millenaire-reborn:timberframe_bottom"
 		},
 		"half=top,variant=timberframecross": {
-			"model": "millenaire:timberframe_top"
+			"model": "millenaire-reborn:timberframe_top"
 		},
 		"half=bottom,variant=thatch": {
-			"model": "millenaire:thatch_bottom"
+			"model": "millenaire-reborn:thatch_bottom"
 		},
 		"half=top,variant=thatch": {
-			"model": "millenaire:thatch_top"
+			"model": "millenaire-reborn:thatch_top"
 		},
 		"half=top,variant=honey_block": {
-			"model": "millenaire:honey_block"
+			"model": "millenaire-reborn:honey_block"
 		},
 		"half=bottom,variant=honey_block": {
-			"model": "millenaire:honey_block"
+			"model": "millenaire-reborn:honey_block"
 		}
 
 	}

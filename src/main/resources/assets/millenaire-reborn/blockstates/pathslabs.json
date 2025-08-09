@@ -1,7 +1,7 @@
 {
 	"forge_marker": 1,
     "variants": {
-        "stable=false": { "model": "millenaire:pathslabs" },
-        "stable=true": { "model": "millenaire:pathslabs" }
+        "stable=false": { "model": "millenaire-reborn:pathslabs" },
+        "stable=true": { "model": "millenaire-reborn:pathslabs" }
     }
 }

@@ -1,9 +1,9 @@
 {
     "parent": "block/half_slab",
     "textures": {
-        "bottom": "millenaire:blocks/japanese_tiles_top",
-        "top": "millenaire:blocks/japanese_tiles_top",
-        "side": "millenaire:blocks/japanese_tiles_side",
-        "particle" : "millenaire:blocks/japanese_tiles_top"
+        "bottom": "millenaire-reborn:block/japanese_tiles_top",
+        "top": "millenaire-reborn:block/japanese_tiles_top",
+        "side": "millenaire-reborn:block/japanese_tiles_side",
+        "particle" : "millenaire-reborn:block/japanese_tiles_top"
     }
 }

@@ -1,7 +1,7 @@
 {
   "parent": "block/crop",
   "textures": {
-    "crop": "millenaire:blocks/silkwormfull",
-        "particle" : "millenaire:blocks/silkwormfull"
+    "crop": "millenaire-reborn:block/silkwormfull",
+        "particle" : "millenaire-reborn:block/silkwormfull"
   }
 }

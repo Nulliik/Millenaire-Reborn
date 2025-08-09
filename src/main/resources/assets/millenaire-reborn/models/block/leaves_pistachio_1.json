@@ -1,6 +1,6 @@
 {
     "parent": "block/leaves",
     "textures": {
-        "all": "millenaire:blocks/leaves_pistachio_1"
+        "all": "millenaire-reborn:block/leaves_pistachio_1"
     }
 }

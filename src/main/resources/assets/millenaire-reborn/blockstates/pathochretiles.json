@@ -1,7 +1,7 @@
 {
 	"forge_marker": 1,
     "variants": {
-        "stable=false": { "model": "millenaire:pathochretiles" },
-        "stable=true": { "model": "millenaire:pathochretiles" }
+        "stable=false": { "model": "millenaire-reborn:pathochretiles" },
+        "stable=true": { "model": "millenaire-reborn:pathochretiles" }
     }
 }

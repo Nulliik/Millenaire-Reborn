@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "millenaire:items/byzantineicon",
-    "particle" : "millenaire:items/byzantineicon"
+    "all": "millenaire-reborn:item/byzantineicon",
+    "particle" : "millenaire-reborn:item/byzantineicon"
   }
 }

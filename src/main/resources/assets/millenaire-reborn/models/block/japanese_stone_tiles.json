@@ -1,12 +1,12 @@
 {
     "parent": "block/cube_column",
     "textures": {
-        "down": "millenaire:blocks/stone",
-        "up": "millenaire:blocks/japanese_tiles_top",
-        "north": "millenaire:blocks/japanese_tiles_half_side",
-        "east": "millenaire:blocks/japanese_tiles_half_front",
-        "south": "millenaire:blocks/japanese_tiles_half_side",
-        "west": "millenaire:blocks/japanese_tiles_half_front",
-        "particle" : "millenaire:blocks/japanese_tiles_top"
+        "down": "millenaire-reborn:block/stone",
+        "up": "millenaire-reborn:block/japanese_tiles_top",
+        "north": "millenaire-reborn:block/japanese_tiles_half_side",
+        "east": "millenaire-reborn:block/japanese_tiles_half_front",
+        "south": "millenaire-reborn:block/japanese_tiles_half_side",
+        "west": "millenaire-reborn:block/japanese_tiles_half_front",
+        "particle" : "millenaire-reborn:block/japanese_tiles_top"
     }
 }

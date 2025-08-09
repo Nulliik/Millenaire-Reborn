@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "millenaire:blocks/dirtwall",
-    "particle" : "millenaire:blocks/dirtwall"
+    "all": "millenaire-reborn:block/dirtwall",
+    "particle" : "millenaire-reborn:block/dirtwall"
   }
 }

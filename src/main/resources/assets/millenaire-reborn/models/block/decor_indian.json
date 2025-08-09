@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "millenaire:items/indianstatue",
-    "particle" : "millenaire:items/indianstatue"
+    "all": "millenaire-reborn:item/indianstatue",
+    "particle" : "millenaire-reborn:item/indianstatue"
   }
 }

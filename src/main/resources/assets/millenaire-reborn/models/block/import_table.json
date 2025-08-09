@@ -1,12 +1,12 @@
 {
     "parent": "block/cube",
     "textures": {
-        "particle": "millenaire:blocks/crafting_table_front",
+        "particle": "millenaire-reborn:block/crafting_table_front",
         "down": "blocks/planks_oak",
-        "up": "millenaire:blocks/crafting_table_top",
-        "north": "millenaire:blocks/crafting_table_front",
-        "east": "millenaire:blocks/crafting_table_side",
-        "south": "millenaire:blocks/crafting_table_side",
-        "west": "millenaire:blocks/crafting_table_front"
+        "up": "millenaire-reborn:block/crafting_table_top",
+        "north": "millenaire-reborn:block/crafting_table_front",
+        "east": "millenaire-reborn:block/crafting_table_side",
+        "south": "millenaire-reborn:block/crafting_table_side",
+        "west": "millenaire-reborn:block/crafting_table_front"
     }
 }

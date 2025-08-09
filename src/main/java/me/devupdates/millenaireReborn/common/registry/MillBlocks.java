@@ -1,6 +1,7 @@
 package me.devupdates.millenaireReborn.common.registry;
 
 import me.devupdates.millenaireReborn.MillenaireReborn;
+import me.devupdates.millenaireReborn.common.block.BlockRosette;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.registry.Registries;
@@ -21,6 +22,7 @@ public class MillBlocks {
     public static Block BYZANTINE_TILES;
     public static Block BYZANTINE_SANDSTONE_ORNAMENT;
     public static Block INDIAN_STONE_ORNAMENT;
+    public static Block ROSETTE;
     
     /**
      * Erstellt Block-Settings mit korrekter Registry-Key
@@ -52,14 +54,14 @@ public class MillBlocks {
         MillenaireReborn.LOGGER.info("Registering Millénaire blocks...");
         
         // Norman Blocks mit explizitem Registry Key
-        NORMAN_BRICKS = register("norman_bricks", 
+        NORMAN_BRICKS = register("norman_bricks",
             new Block(createSettings("norman_bricks")));
         
         NORMAN_COBBLESTONE = register("norman_cobblestone",
             new Block(createSettings("norman_cobblestone")));
         
-        // Byzantine Blocks  
-        BYZANTINE_TILES = register("byzantine_tiles", 
+        // Byzantine Blocks
+        BYZANTINE_TILES = register("byzantine_tiles",
             new Block(createSettings("byzantine_tiles")));
         
         BYZANTINE_SANDSTONE_ORNAMENT = register("byzantine_sandstone_ornament",
@@ -69,7 +71,13 @@ public class MillBlocks {
         // Indian Blocks
         INDIAN_STONE_ORNAMENT = register("indian_stone_ornament",
             new Block(createSettings("indian_stone_ornament")));
+        
+        // Decorative rosette (glass-like)
+        ROSETTE = register("rosette",
+            new BlockRosette(createSettings("rosette")
+                .sounds(BlockSoundGroup.GLASS)
+                .strength(0.3f)));
                 
-        MillenaireReborn.LOGGER.info("Successfully registered {} blocks", 5);
+        MillenaireReborn.LOGGER.info("Successfully registered {} blocks", 6);
     }
 }

@@ -1,6 +1,6 @@
 {
-  "parent": "millenaire:block/free",
+  "parent": "millenaire-reborn:block/free",
   "textures": {
-    "freeblock": "millenaire:blocks/painted_brick_white"
+    "freeblock": "millenaire-reborn:block/painted_brick_white"
   }
 }

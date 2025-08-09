@@ -1,6 +1,6 @@
 {
     "parent": "block/wall_post",
     "textures": {
-        "wall": "millenaire:blocks/sandstone_clean"
+        "wall": "millenaire-reborn:block/sandstone_clean"
     }
 }

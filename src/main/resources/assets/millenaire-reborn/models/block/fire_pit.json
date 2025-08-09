@@ -8,7 +8,7 @@
 		"particle": "blocks/log_spruce"
 	},
 	"parent": "block/block",
-	"elements": [ 	 
+	"elements": [
 		{
 			"from": [ 0, 0.05, 6.5 ],
 			"to": [ 16, 3.05, 9.5 ],

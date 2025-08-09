@@ -1,6 +1,6 @@
 {
-  "parent": "millenaire:block/source",
+  "parent": "millenaire-reborn:block/source",
   "textures": {
-    "sourceblock": "minecraft:block/andesite"
+    "sourceblock": "minecraft:block/stone_andesite"
   }
 }

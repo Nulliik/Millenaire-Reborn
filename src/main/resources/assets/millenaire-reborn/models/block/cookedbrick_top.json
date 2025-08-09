@@ -1,9 +1,9 @@
 {
     "parent": "block/upper_slab",
     "textures": {
-        "bottom": "millenaire:blocks/cookedbrick",
-        "top": "millenaire:blocks/cookedbrick",
-        "side": "millenaire:blocks/cookedbrick",
-        "particle" : "millenaire:blocks/cookedbrick"
+        "bottom": "millenaire-reborn:block/cookedbrick",
+        "top": "millenaire-reborn:block/cookedbrick",
+        "side": "millenaire-reborn:block/cookedbrick",
+        "particle" : "millenaire-reborn:block/cookedbrick"
     }
 }

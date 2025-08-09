@@ -1,5 +1,5 @@
 {
-  "parent": "millenaire:block/free",
+  "parent": "millenaire-reborn:block/free",
   "textures": {
     "freeblock": "minecraft:block/gravel"
   }
