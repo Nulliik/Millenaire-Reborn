@@ -1,5 +1,5 @@
 {
-    "parent": "minecraft:block/template_pane_noside_alt",
+    "parent": "minecraft:block/template_pane_noside",
     "textures": {
         "pane": "millenaire-reborn:block/wooden_bars_rosette_topright"
     }
